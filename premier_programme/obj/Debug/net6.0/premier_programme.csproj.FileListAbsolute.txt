@@ -1,0 +1,15 @@
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\bin\Debug\net6.0\premier_programme.exe
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\bin\Debug\net6.0\premier_programme.deps.json
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\bin\Debug\net6.0\premier_programme.runtimeconfig.json
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\bin\Debug\net6.0\premier_programme.dll
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\bin\Debug\net6.0\premier_programme.pdb
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.csproj.AssemblyReference.cache
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.AssemblyInfoInputs.cache
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.AssemblyInfo.cs
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.csproj.CoreCompileInputs.cache
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.dll
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\obj\Debug\net6.0\refint\premier_programme.dll
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.pdb
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.genruntimeconfig.cache
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\premier_programme\premier_programme\obj\Debug\net6.0\ref\premier_programme.dll
